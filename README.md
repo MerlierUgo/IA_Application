@@ -1,9 +1,10 @@
 # IA_Application
 
-
+<p align="justify">
 Durant ce rapport, nous allons passer en revue le travail réalisé durant le projet d'application en IA. Nous avons eu l’opportunité de collaborer avec Air Liquide, une entreprise spécialisée dans le transport de gaz, afin d’apporter notre aide à leur département R&D. Une alternative proposée était de participer à un des challenges Kaggle, offrant une multitude de projets variés. Travailler avec des professionnels nous semblait intéressant, mais un des projets Kaggle a particulièrement retenu notre attention.
 Kaggle est une plateforme web qui accueille la plus grande communauté de Data Science au monde. On y retrouve des compétitions proposant de nombreux projets, notamment en deep learning. De notre côté, nous travaillons sur une veille technologique concernant les GAN dans la détection de deepfake pour le module d’IA de la recherche. Il nous semblait donc logique de continuer à explorer les GAN afin de nous spécialiser dans ce type de modèle et de monter en compétences.
 Kaggle propose un projet intitulé “I’m Something of a Painter Myself”. Ce projet consiste à utiliser un modèle de type GAN pour créer une peinture reproduisant le style du célèbre peintre Claude Monet à partir d’une photo. Nous avons ainsi décidé d’essayer différents modèles pour évaluer ceux qui fonctionnent le mieux pour ce type de tâche.
+</p>
 
 # GAN classique
 
