@@ -9,7 +9,7 @@ Kaggle propose un projet intitulé “I’m Something of a Painter Myself”. Ce
 # GAN classique
 
 <p align="justify">
-On conclue sur l'étude du GAN classique que selon nos hypothèses de départ, les distributions devraient bouger et même se rapprocher. C’est ce qu’on observe sur les graphiques suivants. Les distributions de nos photos pour la variance et le contraste nous semblaient plus élevées. Maintenant si nous comparons avec nos fausses peintures, on aperçoit des distribution nettement plus proches avec des moyenne presque identique pour le contraste. Nous pouvons donc conclure que notre modèle a réussi à transformer nos photos pour ressembler à des peintures du style de Monet.
+On a conclu sur l'étude du GAN classique que selon nos hypothèses de départ, les distributions devraient bouger et même se rapprocher. C’est ce qu’on observe sur les graphiques suivants. Les distributions de nos photos pour la variance et le contraste nous semblaient plus élevées. Maintenant si nous comparons avec nos fausses peintures, on aperçoit des distribution nettement plus proches avec des moyenne presque identique pour le contraste. Nous pouvons donc conclure que notre modèle a réussi à transformer nos photos pour ressembler à des peintures du style de Monet.
 </p>
 
 ![erreur](assets/Conclusion_GAN.png)
